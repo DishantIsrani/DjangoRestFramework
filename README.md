@@ -13,6 +13,10 @@ I have implemented it in various ways to get a clear understanding.
 
 * This project is licensed under MIT License, See [LICENSE](/LICENSE) for more information.
 
+### Code of Conduct 
+
+* To contribute to this repository check here, see [CODE OF CONDUCT](/CODE_OF_CONDUCT.md).
+
 ### Author
 
-@Author : [Dishant Israni](https://github.com/DishantIsrani)
+* @Author : [Dishant Israni](https://github.com/DishantIsrani)
